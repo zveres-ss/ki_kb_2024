@@ -25,3 +25,10 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+.idea/
+linux/
+macos/
+windows/
+.metadata
+ki_kb_2024.iml
